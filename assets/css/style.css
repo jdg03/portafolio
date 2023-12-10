@@ -160,7 +160,12 @@ html{
 
 .sobremi .fila{
 
-    font-display: flex;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: stretch;
+	align-content: stretch;
 
 }
 .sobremi .fila .col{
