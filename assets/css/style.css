@@ -287,11 +287,11 @@ html{
     margin: auto;
 }
 .contacto h2{
-    color: rgb(219, 195, 151);;
+    color: rgb(219, 195, 151);
     font-size: 48px;
-    font-family: 'Righteous';
     text-align: center;
     padding: 20px 0;
+    font-family: "Righteous" !important;
 }
 .contacto .fila{
     display: flex;
